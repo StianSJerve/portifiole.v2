@@ -1,0 +1,43 @@
+body {
+    background-image: url(backround/backround\,jpg.avif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+
+h1 {
+    color: white;
+    font-size: 36px;
+    margin-top: 200px;
+}
+
+
+.box1 {
+    background-color: gray;
+    height: 700px;
+    width: 500px;
+    border-radius: 50px;
+    margin-left: 1300px;
+    margin-top: 150px;
+}
+
+img {
+ position: absolute;
+ bottom: 800px;
+ left: 900px;
+}
+
+
+a {
+    color: blue;
+    font-size: 20px;
+}
+
+a:hover {
+    color: aqua;
+}
+
+.home {
+    
+}
